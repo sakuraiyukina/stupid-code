@@ -1,0 +1,12 @@
+#define mian main
+#define ture true
+#define ， ,
+#define ； ;
+#define “ "
+#define ” "
+#define （ (
+#define ） )
+#define ｛ {
+#define ｝ }
+#define 【  [
+#define 】 ]
